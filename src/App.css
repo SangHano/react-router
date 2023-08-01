@@ -1,0 +1,50 @@
+#homeLink {
+    padding-right:200px;
+    
+    
+}
+#blueLink{
+    padding-right:200px;
+    
+}
+nav{
+    background-color: antiquewhite;
+    height: 100px;
+    text-align: center;
+    padding-top: 50px;;
+}
+#sideBar{
+    background-image: url("images/istockphoto-1266832146-612x612-1.jpg");
+    height: 300px;
+}
+#mainBar{
+    background-image: url("images/istockphoto-1266832146-612x612-1.jpg");
+    height: 300px;
+    text-align: center;
+    
+}
+#miniBar1, #miniBar2, #miniBar3{
+    background-image: url("images/istockphoto-1266832146-612x612-1.jpg");
+
+}
+#miniBar1, #miniBar3{
+    height:87%;
+}
+#box{
+    display: flex;
+    flex-wrap:wrap;
+    align-content: flex-start;
+}
+
+h2{
+    text-decoration: underline;
+    font-style: italic;
+}
+.blue{
+    background-color: rgb(101, 170, 231);
+    font-style: italic;
+}
+.red{
+    background-color: rgb(228, 110, 110);
+    font-style: italic;
+}
