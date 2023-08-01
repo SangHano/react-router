@@ -11,8 +11,8 @@ const App = () => {
       <div id="main-section">
         <nav>
           <Link id="homeLink" to="/">Home</Link>
-          <Link id="blueLink" to="/blue">Blue</Link>
-          <Link id="redLink" to="/red">Red</Link>
+          <Link id="blueLink" to="/blue">Daily Life</Link>
+          <Link id="redLink" to="/red">Not Done YET!!!!!</Link>
         </nav>
 
         <Routes>
