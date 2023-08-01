@@ -4,6 +4,7 @@ import Home from "./components/Home"
 import Blue from "./components/Blue"
 import Red from "./components/Red"
 import Green from "./components/Green"
+import Links from "./components/Link"
 import './App.css'
 
 const App = () => {
@@ -11,10 +12,7 @@ const App = () => {
     <>
       <div id="main-section">
         <nav>
-          <Link id="homeLink" to="/">Home</Link>
-          <Link id="blueLink" to="/blue">Daily Life</Link>
-          <Link id="redLink" to="/red">Not Done YET!!!!!</Link>
-          <Link id="greenLink" to ="/green">Not Dont YET!!!</Link>
+          <Links/>
         </nav>
 
         <Routes>
