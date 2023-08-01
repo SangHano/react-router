@@ -1,11 +1,14 @@
 #homeLink {
-    padding-right:200px;
+    padding-right:100px;
     
     
 }
 #blueLink{
-    padding-right:200px;
+    padding-right:100px;
     
+}
+#redLink{
+    padding-right:100px;
 }
 nav{
     background-color: antiquewhite;
@@ -46,6 +49,10 @@ h2{
 }
 .red{
     background-color: rgb(228, 110, 110);
+    font-style: italic;
+}
+.green{
+    background-color: rgb(118, 223, 118);
     font-style: italic;
 }
 #blueMainText{
